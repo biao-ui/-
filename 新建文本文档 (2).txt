@@ -1,0 +1,167 @@
+   public async Task<IActionResult> GenerateMedicalRecordPdf(int id)
+        {
+            string outputPath = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "pdfmode", "" + Guid.NewGuid().ToString() + ".pdf");
+
+            var fontPath = @"C:\Windows\Fonts\MSYH.TTC,0";
+            var font = PdfFontFactory.CreateFont(fontPath, PdfEncodings.IDENTITY_H, true);
+
+            using (PdfWriter writer = new PdfWriter(outputPath))
+            using (PdfDocument pdf = new PdfDocument(writer))
+            using (Document document = new Document(pdf))
+            {
+                // 标题
+                document.Add(new Paragraph("广西壮族自治区中医药研究院门诊部南宁市青秀区思贤社区\n区卫生服务站门（急）诊病历记录")
+                    .SetFont(font)
+                    .SetBold().SetFontSize(16).SetTextAlignment(iText.Layout.Properties.TextAlignment.CENTER));
+
+                document.Add(new Paragraph("\n\n")); // 空行
+
+                // 科别、患者、性别、年龄
+                document.Add(new Paragraph($"科别：$age\t\t患者：\t\t性别：\t\t年龄：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                document.Add(new Paragraph("\n\n\n")); // 空行
+
+                // 获取当前页的 Canvas 进行绘图
+                PdfCanvas canvas = new PdfCanvas(pdf.GetFirstPage());
+
+                // 画线方法
+
+                // 画线方法
+                DrawLine(canvas, 40, 660, 550, 660); // 诊断后横线（向上调整）
+                DrawLine(canvas, 40, 1200, 550, 590); // 第三条线，向下移动
+           
+
+                // 主诉
+                document.Add(new Paragraph("主诉：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+                document.Add(new Paragraph(" ")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                // 现病史
+                document.Add(new Paragraph("现病史：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+                document.Add(new Paragraph(" ")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                // 既往史
+                document.Add(new Paragraph("既往史：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+                document.Add(new Paragraph(" ")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                // 个人史
+                document.Add(new Paragraph("个人史：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+                document.Add(new Paragraph(" ")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                // 家族史
+                document.Add(new Paragraph("家族史：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+                document.Add(new Paragraph(" ")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                // 过敏史
+                document.Add(new Paragraph("过敏史：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+                document.Add(new Paragraph(" ")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                // 体格检查
+                document.Add(new Paragraph("体格检查：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+                document.Add(new Paragraph(" ")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                // 辅助检查检验
+                document.Add(new Paragraph("辅助检查检验：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+                document.Add(new Paragraph(" ")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                // 诊断
+                document.Add(new Paragraph("诊断：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+                document.Add(new Paragraph("1. 【西医】发热")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                // 治疗计划
+                document.Add(new Paragraph("治疗计划：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+                document.Add(new Paragraph(" ")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                // 处置
+                document.Add(new Paragraph("处置：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+                document.Add(new Paragraph("1. 注射用头孢吡辛钠 [1支]")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                // 医生签名 & 盖章
+                document.Add(new Paragraph("医生签名：\t\t盖章：")
+                    .SetFont(font)
+                    .SetFontSize(14)
+                    .SetTextAlignment(iText.Layout.Properties.TextAlignment.LEFT));
+
+                string path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "pdfmode");
+                if (path.Length != 0)
+                {
+                    // 调用函数检查并清理文件
+                    HisWebServices.CleanOldFiles(path);
+                }
+
+                // 返回 PDF 文件给前端
+                return new PhysicalFileResult(outputPath, "application/pdf")
+                {
+                    FileDownloadName = "电子病例.pdf"
+                };
+            }
+
+        }
