@@ -1,0 +1,115 @@
+﻿@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>layui</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/layuimini-v2/lib/layui-v2.6.3/css/layui.css" media="all">
+    <link rel="stylesheet" href="/layuimini-v2/css/public.css" media="all">
+    <style>
+        body {
+            background-color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <div class="layui-form layuimini-form" lay-filter="demo-val-filter">
+   
+        <div class="layui-form-item">
+            <label class="layui-form-label required">标题</label>
+            <div class="layui-input-block">
+                <input type="text" name="title" lay-verify="required" lay-reqtext="标题不能为空" placeholder="请输入标题" value="" class="layui-input">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label required">内容</label>
+            <div class="layui-input-block">
+                <textarea name="content" placeholder="内容" class="layui-textarea"></textarea>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <div class="layui-input-block">
+                <button class="layui-btn layui-btn-normal" lay-submit lay-filter="saveBtn">确认保存</button>
+            </div>
+        </div>
+    </div>
+    <script src="/layuimini-v2/lib/layui-v2.6.3/layui.js" charset="utf-8"></script>
+    <script>
+        layui.use(['form'], function () {
+            var form = layui.form,
+                layer = layui.layer,
+                $ = layui.$;
+            var id = window.location.search.substring(4)
+
+            $.ajax({
+                url: '/Notice/UpdatGet',
+                type: 'get',
+                data: {
+                    id: id
+                },
+                success: function (res) { //接口响应的内容、
+                    //把拿到数据赋值到input输入框中
+                    console.log(res);
+                    //把拿到数据赋值到input输入框中
+                    form.val('demo-val-filter', {
+                        "title": res.data.title, // "name": "value"
+                        "content": res.data.content,
+                    });
+                }
+            });
+
+
+            console.log(id);
+            //发起一个请求，获取当前被编辑人的信息
+            //监听提交
+            form.on('submit(saveBtn)', function (data) {
+                //var index = layer.alert(JSON.stringify(data.field), {
+                //    title: '最终的提交信息'
+                //}, function () {
+                //    // 关闭弹出层
+                //    layer.close(index);
+                //    var iframeIndex = parent.layer.getFrameIndex(window.name);
+                //    parent.layer.close(iframeIndex);
+                //});
+                //console.log(data);
+                //使用Jquery的ajax发异步请求
+                $.ajax({
+                    url: '/Notice/UpdatNotice',
+                    type: 'post',
+                    data: {
+                        id: id,
+                        title: data.field.title,
+                        content: data.field.content
+                    },
+                    success: function (res) { //接口响应的内容
+
+                        if (res.code != 0) {
+                            //失败的时候做弹出提示
+                            layer.msg(res.msg);
+                        } else {
+                            //关闭当前弹出层的业务
+                            var iframeIndex = parent.layer.getFrameIndex(window.name);
+                            parent.layer.close(iframeIndex);
+                            parent.reload();
+                            parent.layer.msg(res.msg)
+
+                        }
+                    }
+                });
+
+                //取消表单的submit事件
+                return false;
+            });
+
+        });
+
+    </script>
+</body>
+</html>

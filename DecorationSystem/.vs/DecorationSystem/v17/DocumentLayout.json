@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A3B7C-E7C7-4E42-8947-14B8E5A8878A}|BLL\\BLL.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A3B7C-E7C7-4E42-8947-14B8E5A8878A}|BLL\\BLL.csproj|solutionrelative:bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A3B7C-E7C7-4E42-8947-14B8E5A8878A}|BLL\\BLL.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\bll\\loginbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A3B7C-E7C7-4E42-8947-14B8E5A8878A}|BLL\\BLL.csproj|solutionrelative:bll\\loginbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319B3911-4E6C-42E4-87F3-0B50F0F95A24}|DecorationSystem\\DecorationSystem.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\decorationsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319B3911-4E6C-42E4-87F3-0B50F0F95A24}|DecorationSystem\\DecorationSystem.csproj|solutionrelative:decorationsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA13A15-1B2A-4CB2-A9E2-1475CBE7331B}|Entity\\Entity.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\entity\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA13A15-1B2A-4CB2-A9E2-1475CBE7331B}|Entity\\Entity.csproj|solutionrelative:entity\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319B3911-4E6C-42E4-87F3-0B50F0F95A24}|DecorationSystem\\DecorationSystem.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\decorationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{319B3911-4E6C-42E4-87F3-0B50F0F95A24}|DecorationSystem\\DecorationSystem.csproj|solutionrelative:decorationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA13A15-1B2A-4CB2-A9E2-1475CBE7331B}|Entity\\Entity.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\entity\\fileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA13A15-1B2A-4CB2-A9E2-1475CBE7331B}|Entity\\Entity.csproj|solutionrelative:entity\\fileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A3B7C-E7C7-4E42-8947-14B8E5A8878A}|BLL\\BLL.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\bll\\noticebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A3B7C-E7C7-4E42-8947-14B8E5A8878A}|BLL\\BLL.csproj|solutionrelative:bll\\noticebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A3B7C-E7C7-4E42-8947-14B8E5A8878A}|BLL\\BLL.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\bll\\rolelnfobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A3B7C-E7C7-4E42-8947-14B8E5A8878A}|BLL\\BLL.csproj|solutionrelative:bll\\rolelnfobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33A3B7C-E7C7-4E42-8947-14B8E5A8878A}|BLL\\BLL.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\bll\\ordersbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33A3B7C-E7C7-4E42-8947-14B8E5A8878A}|BLL\\BLL.csproj|solutionrelative:bll\\ordersbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA13A15-1B2A-4CB2-A9E2-1475CBE7331B}|Entity\\Entity.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA13A15-1B2A-4CB2-A9E2-1475CBE7331B}|Entity\\Entity.csproj|solutionrelative:entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319B3911-4E6C-42E4-87F3-0B50F0F95A24}|DecorationSystem\\DecorationSystem.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\decorationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319B3911-4E6C-42E4-87F3-0B50F0F95A24}|DecorationSystem\\DecorationSystem.csproj|solutionrelative:decorationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07876D3-94A9-46EE-892E-14282921E7B0}|IDAL\\IDAL.csproj|c:\\users\\\u9EC4\u80DC\u6807\\desktop\\decorationsystem\\idal\\ibasedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07876D3-94A9-46EE-892E-14282921E7B0}|IDAL\\IDAL.csproj|solutionrelative:idal\\ibasedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogInBLL.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\BLL\\LogInBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\LogInBLL.cs",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\BLL\\LogInBLL.cs",
+              "RelativeToolTip": "BLL\\LogInBLL.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:27:18.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\DecorationSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DecorationSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\DecorationSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DecorationSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:44:37.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\Entity\\FileInfo.cs",
+              "RelativeDocumentMoniker": "Entity\\FileInfo.cs",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\Entity\\FileInfo.cs",
+              "RelativeToolTip": "Entity\\FileInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:37:52.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersBLL.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\BLL\\OrdersBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\OrdersBLL.cs",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\BLL\\OrdersBLL.cs",
+              "RelativeToolTip": "BLL\\OrdersBLL.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwIIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:36:18.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoticeBLL.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\BLL\\NoticeBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NoticeBLL.cs",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\BLL\\NoticeBLL.cs",
+              "RelativeToolTip": "BLL\\NoticeBLL.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:36:13.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RolelnfoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\BLL\\RolelnfoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\RolelnfoBLL.cs",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\BLL\\RolelnfoBLL.cs",
+              "RelativeToolTip": "BLL\\RolelnfoBLL.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAgwMsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:36:09.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeBLL.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\BLL\\EmployeeBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\EmployeeBLL.cs",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\BLL\\EmployeeBLL.cs",
+              "RelativeToolTip": "BLL\\EmployeeBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMEBAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:35:56.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\Entity\\Employee.cs",
+              "RelativeToolTip": "Entity\\Employee.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:35:44.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\Entity\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\Entity\\MyDbContext.cs",
+              "RelativeToolTip": "Entity\\MyDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwwAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:33:48.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\DecorationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "DecorationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\DecorationSystem\\Program.cs",
+              "RelativeToolTip": "DecorationSystem\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:33:27.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\DecorationSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "DecorationSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\DecorationSystem\\appsettings.json",
+              "RelativeToolTip": "DecorationSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T14:32:05.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBaseDAL.cs",
+              "DocumentMoniker": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\IDAL\\IBaseDAL.cs",
+              "RelativeDocumentMoniker": "IDAL\\IBaseDAL.cs",
+              "ToolTip": "C:\\Users\\\u9EC4\u80DC\u6807\\Desktop\\DecorationSystem\\IDAL\\IBaseDAL.cs",
+              "RelativeToolTip": "IDAL\\IBaseDAL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:28:50.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

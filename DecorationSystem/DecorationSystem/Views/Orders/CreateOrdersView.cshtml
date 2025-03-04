@@ -1,0 +1,158 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>layui</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/layuimini-v2/lib/layui-v2.6.3/css/layui.css" media="all">
+    <link rel="stylesheet" href="/layuimini-v2/css/public.css" media="all">
+    <style>
+        body {
+            background-color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <div class="layui-form layuimini-form">
+        <div class="layui-form-item">
+            <label class="layui-form-label required">
+                客户姓名
+            </label>
+            <div class="layui-input-block">
+                <input type="text" name="customerName" lay-verify="required" lay-reqtext="客户姓名不能为空" placeholder="请输入客户姓名" value="" class="layui-input">
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            <label class="layui-form-label required">客户电话</label>
+            <div class="layui-input-block">
+                <input type="text" name="customPhone" lay-verify="required" lay-reqtext="客户电话不能为空" placeholder="请输入客户电话" value="" class="layui-input">
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            <label class="layui-form-label required">地址</label>
+            <div class="layui-input-block">
+                <input type="text" name="address" lay-verify="required" lay-reqtext="地址不能为空" placeholder="请输入地址" value="" class="layui-input">
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            <label class="layui-form-label required">面积</label>
+            <div class="layui-input-block">
+                <input type="number" name="area" lay-verify="required" lay-reqtext="面积不能为空" placeholder="请输入面积" value="" class="layui-input">
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            <label class="layui-form-label required">开始时间</label>
+            <div class="layui-input-inline">
+                <input type="text" name="startTime" class="layui-input" id="startTime" placeholder="yyyy-MM-dd">
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            <label class="layui-form-label required ">结束时间</label>
+            <div class="layui-input-inline">
+                <input type="text" name="endTime" class="layui-input" id="endTime" placeholder="yyyy-MM-dd">
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            <label class="layui-form-label required ">设计师</label>
+            <div class="layui-input-block">
+                <select name="designer" lay-filter="aihao" id="rarentSelect">
+                    <option value=""></option>
+
+                </select>
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            <label class="layui-form-label ">备注</label>
+            <div class="layui-input-block">
+                <input type="text" name="remark" placeholder="请输入备注" value="" class="layui-input">
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            <div class="layui-input-block">
+                <button class="layui-btn layui-btn-normal" lay-submit lay-filter="saveBtn">确认保存</button>
+            </div>
+        </div>
+    </div>
+    <script src="/layuimini-v2/lib/layui-v2.6.3/layui.js" charset="utf-8"></script>
+    <script>
+        layui.use(['form'], function () {
+            var form = layui.form,
+                layer = layui.layer,
+                $ = layui.$,
+                laydate = layui.laydate;
+
+            laydate.render({
+                elem: '#startTime'
+            });
+
+            laydate.render({
+                elem: '#endTime'
+            });
+
+            //发起异步请求获取下拉框
+            $.ajax({
+                url: '/Orders/GetOrdersList',
+                type: 'get',
+                data: {
+                },
+                success: function (res) {
+                    console.log(res)
+                    for (let i = 0; i < res.data.length; i++) {
+                        console.log(res.data[i].id)
+                        $('#rarentSelect').append('<option value="' + res.data[i].id + '" >  ' + res.data[i].name + '</option>')
+                    }
+
+                    console.log(res)
+                    form.render('select')
+                },
+
+            })
+
+            //监听提交
+            form.on('submit(saveBtn)', function (data) {
+                data = data.field;
+
+                $.ajax({
+                    url: '/Orders/CreateOrders',
+                    type: 'post',
+                    data: {
+                        customerName: data.customerName,
+                        customPhone: data.customPhone,
+                        address: data.address,
+                        ares: data.area,
+                        startTime: data.startTime,
+                        endTime: data.endTime,
+                        designerId: data.designer,
+                        remark: data.remark
+                    },
+                    success: function (res) {
+                        if (res.code == 0) {
+                            var iframeIndex = parent.layer.getFrameIndex(window.name);
+                            parent.layer.close(iframeIndex);
+                        } else {
+                            layer.msg(res.msg)
+                        }
+
+                    },
+
+                })
+            });
+
+            return false;
+        });
+    </script>
+</body>
+</html>

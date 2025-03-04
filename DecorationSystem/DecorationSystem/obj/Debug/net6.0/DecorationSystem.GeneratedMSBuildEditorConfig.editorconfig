@@ -1,0 +1,147 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DecorationSystem
+build_property.RootNamespace = DecorationSystem
+build_property.ProjectDir = C:\Users\黄胜标\Desktop\DecorationSystem\DecorationSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\黄胜标\Desktop\DecorationSystem\DecorationSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Employee/AddIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Employee/EmployeeInfoView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRW1wbG95ZWVJbmZvVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Employee/EmployeePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRW1wbG95ZWVQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Employee/TableEmployeeIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVGFibGVFbXBsb3llZUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Employee/UpdateEmployeeView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVXBkYXRlRW1wbG95ZWVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Home/WelcomeView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWxjb21lVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/LogIn/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nSW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Material/CreateMaterialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcQ3JlYXRlTWF0ZXJpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Material/MaterialListView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcTWF0ZXJpYWxMaXN0Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Material/UpMaterialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcVXBNYXRlcmlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/MenuInfo/AddIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUluZm9cQWRkSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/MenuInfo/DeateView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUluZm9cRGVhdGVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/MenuInfo/TableMenuInfoIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUluZm9cVGFibGVNZW51SW5mb0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/MenuInfo/UpdateMenuInfoView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUluZm9cVXBkYXRlTWVudUluZm9WaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Notice/AddIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNlXEFkZEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Notice/DetailView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNlXERldGFpbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Notice/TableNoticeIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNlXFRhYmxlTm90aWNlSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Notice/UpdateNoticeView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNlXFVwZGF0ZU5vdGljZVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Orders/ChooseOrdersMaterialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENob29zZU9yZGVyc01hdGVyaWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Orders/CreateOrdersView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZU9yZGVyc1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Orders/OrdersListView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXE9yZGVyc0xpc3RWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Orders/OrdersMaterialListView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXE9yZGVyc01hdGVyaWFsTGlzdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Orders/PrintView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXFByaW50Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/Orders/UpOrdersView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXFVwT3JkZXJzVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/RoleInfo/AddIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZUluZm9cQWRkSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/RoleInfo/BindEmployeeView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZUluZm9cQmluZEVtcGxveWVlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/RoleInfo/BinMenuInfoView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZUluZm9cQmluTWVudUluZm9WaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/RoleInfo/TableRoleInfoIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZUluZm9cVGFibGVSb2xlSW5mb0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/RoleInfo/UpdateRoleInfoView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZUluZm9cVXBkYXRlUm9sZUluZm9WaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/黄胜标/Desktop/DecorationSystem/DecorationSystem/Views/RoleMenu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZU1lbnVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

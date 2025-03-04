@@ -1,0 +1,142 @@
+﻿@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>layui</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/layuimini-v2/lib/layui-v2.6.3/css/layui.css" media="all">
+    <link rel="stylesheet" href="/layuimini-v2/css/public.css" media="all">
+    <style>
+        body {
+            background-color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <div class="layui-form layuimini-form" lay-filter="demo-val-filter">
+        <div class="layui-form-item">
+            <label class="layui-form-label">角色</label>
+            <div class="layui-input-block">
+                <select name="roleId" lay-filter="aihao" id="roselect">
+                    <option value=""></option>
+                </select>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label required">姓名</label>
+            <div class="layui-input-block">
+                <input type="text" name="name" lay-verify="required" lay-reqtext="姓名不能为空" placeholder="请输入姓名" value="" class="layui-input">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label required">电话</label>
+            <div class="layui-input-block">
+                <input type="text" name="phone" lay-verify="required" lay-reqtext="电话不能为空" placeholder="电话入姓名" value="" class="layui-input">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <div class="layui-input-block">
+                <button class="layui-btn layui-btn-normal" lay-submit lay-filter="saveBtn">确认保存</button>
+            </div>
+        </div>
+    </div>
+    <script src="/layuimini-v2/lib/layui-v2.6.3/layui.js" charset="utf-8"></script>
+    <script>
+        layui.use(['form'], function () {
+            var form = layui.form,
+                layer = layui.layer,
+                $ = layui.$;
+            var id = window.location.search.substring(4)
+            $.ajax({
+                url: '/Employee/GetOptionList',
+                type: 'get',
+                data: {
+
+                },
+                success: function (res) {   //请求成功后执行的回调函数，响应的内容就在res中
+                    console.log(res);
+                    for (let i = 0; i < res.data.length; i++) {
+                        $('#roselect').append('<option value="' + res.data[i].id + '" >' + res.data[i].name + '</option>')
+                    }
+                    form.render('select')
+                    $.ajax({
+                        url: '/Employee/UpdatGet',
+                        type: 'get',
+                        data: {
+                            id: id
+                        },
+                        success: function (res) { //接口响应的内容、
+                            //把拿到数据赋值到input输入框中
+                            console.log(res);
+                            //把拿到数据赋值到input输入框中
+                            form.val('demo-val-filter', {
+                                "name": res.data.name, // "name": "value"
+                                "phone": res.data.phone,
+                                "roleId": res.data.roleId,
+                            });
+
+                        }
+                    });
+                }
+            });
+      
+            console.log(id);
+            //发起一个请求，获取当前被编辑人的信息
+           
+
+            //监听提交
+            form.on('submit(saveBtn)', function (data) {
+                //var index = layer.alert(JSON.stringify(data.field), {
+                //    title: '最终的提交信息'
+                //}, function () {
+
+                //    // 关闭弹出层
+                //    layer.close(index);
+
+                //    var iframeIndex = parent.layer.getFrameIndex(window.name);
+                //    parent.layer.close(iframeIndex);
+
+                //});
+
+                //console.log(data);
+
+                //使用Jquery的ajax发异步请求
+                $.ajax({
+                    url: '/Employee/UpdatEmployee',
+                    type: 'post',
+                    data: {
+                        id: id,
+                        name: data.field.name,
+                        phone: data.field.phone,
+                        roleId: data.field.roleId
+                    },
+                    success: function (res) { //接口响应的内容
+
+                        if (res.code != 0) {
+                            //失败的时候做弹出提示
+                            layer.msg(res.msg);
+                        } else {
+                            //关闭当前弹出层的业务
+                            var iframeIndex = parent.layer.getFrameIndex(window.name);
+                            parent.layer.close(iframeIndex);
+                            parent.reload();
+                            parent.layer.msg(res.msg)
+
+                        }
+                    }
+                });
+
+                //取消表单的submit事件
+                return false;
+            });
+
+        });</script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DJEHTGnXMNKboN0wnaZE8Y5cCTNGwuUY8x9NsX0kS/+ugCG4EehU4SsxR5bq0lGr95/JI+BlYQbgETDjr1RvQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\Commo\\Commo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\黄胜标\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\黄胜标\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\黄胜标\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,701 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\img\\头像\\168abc16-9fbf-4a82-a728-fe21bec47a12.jpg",
+      "PackagePath": "staticwebassets\\img\\头像\\168abc16-9fbf-4a82-a728-fe21bec47a12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\img\\头像\\19038c16-708d-46b9-b29d-a5c83ce2d900.jpg",
+      "PackagePath": "staticwebassets\\img\\头像\\19038c16-708d-46b9-b29d-a5c83ce2d900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\img\\头像\\2492c06f-e2ca-4843-a259-d4d9898f9a55.png",
+      "PackagePath": "staticwebassets\\img\\头像\\2492c06f-e2ca-4843-a259-d4d9898f9a55.png"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\img\\头像\\34c63e15-5b81-4682-bf99-a11e363e5ab6.jpg",
+      "PackagePath": "staticwebassets\\img\\头像\\34c63e15-5b81-4682-bf99-a11e363e5ab6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\img\\头像\\45c2e2ac-e467-481e-a03f-d4a61332adcb.jpg",
+      "PackagePath": "staticwebassets\\img\\头像\\45c2e2ac-e467-481e-a03f-d4a61332adcb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\img\\头像\\72b3a4d0-7af9-4182-be58-49f8bbcc85c0.jpg",
+      "PackagePath": "staticwebassets\\img\\头像\\72b3a4d0-7af9-4182-be58-49f8bbcc85c0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\img\\头像\\734c73f9-775b-41cb-b042-aa85d40ff352.jpg",
+      "PackagePath": "staticwebassets\\img\\头像\\734c73f9-775b-41cb-b042-aa85d40ff352.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\img\\头像\\b70657f3-c8f6-4655-a021-c9634ab31a33.jpg",
+      "PackagePath": "staticwebassets\\img\\头像\\b70657f3-c8f6-4655-a021-c9634ab31a33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\img\\头像\\c51f550f-0d47-4471-8f35-e0260daa070a.jpg",
+      "PackagePath": "staticwebassets\\img\\头像\\c51f550f-0d47-4471-8f35-e0260daa070a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\img\\头像\\f025784c-58b1-4e68-a46f-2243bcf49fdb.jpg",
+      "PackagePath": "staticwebassets\\img\\头像\\f025784c-58b1-4e68-a46f-2243bcf49fdb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\img\\头像\\fd2a0369-5ea1-4924-b95d-f50e06cbd1b7.jpg",
+      "PackagePath": "staticwebassets\\img\\头像\\fd2a0369-5ea1-4924-b95d-f50e06cbd1b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\.gitattributes",
+      "PackagePath": "staticwebassets\\layuimini-v2\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\.gitignore",
+      "PackagePath": "staticwebassets\\layuimini-v2\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\LICENSE",
+      "PackagePath": "staticwebassets\\layuimini-v2"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\README.md",
+      "PackagePath": "staticwebassets\\layuimini-v2\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\api\\clear.json",
+      "PackagePath": "staticwebassets\\layuimini-v2\\api\\clear.json"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\api\\init.json",
+      "PackagePath": "staticwebassets\\layuimini-v2\\api\\init.json"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\api\\menus.json",
+      "PackagePath": "staticwebassets\\layuimini-v2\\api\\menus.json"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\api\\table.json",
+      "PackagePath": "staticwebassets\\layuimini-v2\\api\\table.json"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\api\\tableSelect.json",
+      "PackagePath": "staticwebassets\\layuimini-v2\\api\\tableSelect.json"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\api\\upload.json",
+      "PackagePath": "staticwebassets\\layuimini-v2\\api\\upload.json"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\css\\layuimini.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\css\\layuimini.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\css\\public.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\css\\public.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\css\\themes\\default.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\css\\themes\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\layuimini-v2\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\images\\captcha.jpg",
+      "PackagePath": "staticwebassets\\layuimini-v2\\images\\captcha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\images\\donate_qrcode.png",
+      "PackagePath": "staticwebassets\\layuimini-v2\\images\\donate_qrcode.png"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\layuimini-v2\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\images\\home.png",
+      "PackagePath": "staticwebassets\\layuimini-v2\\images\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\images\\icon-login.png",
+      "PackagePath": "staticwebassets\\layuimini-v2\\images\\icon-login.png"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\images\\loginbg.png",
+      "PackagePath": "staticwebassets\\layuimini-v2\\images\\loginbg.png"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\images\\logo.png",
+      "PackagePath": "staticwebassets\\layuimini-v2\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-config.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-config.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\echarts\\echarts.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\echarts\\echarts.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\echarts\\echartsTheme.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\echarts\\echartsTheme.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\iconPicker\\iconPickerFa.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\iconPicker\\iconPickerFa.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\layarea\\layarea.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\layarea\\layarea.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\layuimini\\miniAdmin.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\layuimini\\miniAdmin.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\layuimini\\miniMenu.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\layuimini\\miniMenu.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\layuimini\\miniTab.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\layuimini\\miniTab.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\layuimini\\miniTheme.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\layuimini\\miniTheme.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\layuimini\\miniTongji.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\layuimini\\miniTongji.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\step-lay\\step.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\step-lay\\step.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\step-lay\\step.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\step-lay\\step.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\tableSelect\\tableSelect.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\tableSelect\\tableSelect.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\treetable-lay\\treetable.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\treetable-lay\\treetable.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\treetable-lay\\treetable.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\treetable-lay\\treetable.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\wangEditor\\fonts\\w-e-icon.woff",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\wangEditor\\fonts\\w-e-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\wangEditor\\wangEditor.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\wangEditor\\wangEditor.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\wangEditor\\wangEditor.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\wangEditor\\wangEditor.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\wangEditor\\wangEditor.min.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\wangEditor\\wangEditor.min.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\wangEditor\\wangEditor.min.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\wangEditor\\wangEditor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\js\\lay-module\\wangEditor\\wangEditor.min.js.map",
+      "PackagePath": "staticwebassets\\layuimini-v2\\js\\lay-module\\wangEditor\\wangEditor.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\jq-module\\jquery.particleground.min.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\jq-module\\jquery.particleground.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\jq-module\\paigusu.min.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\jq-module\\paigusu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\jq-module\\zyupload\\zyupload-1.0.0.min.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\jq-module\\zyupload\\zyupload-1.0.0.min.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\jq-module\\zyupload\\zyupload-1.0.0.min.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\jq-module\\zyupload\\zyupload-1.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\jquery-3.4.1\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\jquery-3.4.1\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\css\\layui.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\css\\layui.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\code.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\code.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\laydate\\default\\laydate.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\laydate\\default\\laydate.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\icon-ext.png",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\icon-ext.png"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\icon.png",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\layer.css",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\layer.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\loading-0.gif",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\loading-0.gif"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\loading-1.gif",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\loading-1.gif"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\loading-2.gif",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\css\\modules\\layer\\default\\loading-2.gif"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\font\\iconfont.eot",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\font\\iconfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\font\\iconfont.svg",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\font\\iconfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\font\\iconfont.ttf",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\font\\iconfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\font\\iconfont.woff",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\font\\iconfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\font\\iconfont.woff2",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\font\\iconfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\layuimini-v2\\lib\\layui-v2.6.3\\layui.js",
+      "PackagePath": "staticwebassets\\layuimini-v2\\lib\\layui-v2.6.3\\layui.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\黄胜标\\Desktop\\DecorationSystem\\DecorationSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DecorationSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DecorationSystem.props",
+      "PackagePath": "build\\DecorationSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DecorationSystem.props",
+      "PackagePath": "buildMultiTargeting\\DecorationSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DecorationSystem.props",
+      "PackagePath": "buildTransitive\\DecorationSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
