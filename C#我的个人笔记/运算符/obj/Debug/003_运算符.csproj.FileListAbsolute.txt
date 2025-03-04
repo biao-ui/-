@@ -1,0 +1,14 @@
+E:\工作\讲课\基础回顾\基础回顾\运算符\bin\Debug\运算符.exe.config
+E:\工作\讲课\基础回顾\基础回顾\运算符\bin\Debug\运算符.exe
+E:\工作\讲课\基础回顾\基础回顾\运算符\bin\Debug\运算符.pdb
+E:\工作\讲课\基础回顾\基础回顾\运算符\obj\Debug\003_运算符.csproj.AssemblyReference.cache
+E:\工作\讲课\基础回顾\基础回顾\运算符\obj\Debug\003_运算符.csproj.CoreCompileInputs.cache
+E:\工作\讲课\基础回顾\基础回顾\运算符\obj\Debug\运算符.exe
+E:\工作\讲课\基础回顾\基础回顾\运算符\obj\Debug\运算符.pdb
+C:\Users\Administrator\Desktop\基础回顾\运算符\bin\Debug\运算符.exe.config
+C:\Users\Administrator\Desktop\基础回顾\运算符\bin\Debug\运算符.exe
+C:\Users\Administrator\Desktop\基础回顾\运算符\bin\Debug\运算符.pdb
+C:\Users\Administrator\Desktop\基础回顾\运算符\obj\Debug\003_运算符.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\运算符\obj\Debug\运算符.exe
+C:\Users\Administrator\Desktop\基础回顾\运算符\obj\Debug\运算符.pdb
+C:\Users\Administrator\Desktop\基础回顾\运算符\obj\Debug\003_运算符.csproj.AssemblyReference.cache

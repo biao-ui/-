@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\基础回顾\多线程\bin\Debug\多线程.exe.config
+C:\Users\Administrator\Desktop\基础回顾\多线程\bin\Debug\多线程.exe
+C:\Users\Administrator\Desktop\基础回顾\多线程\bin\Debug\多线程.pdb
+C:\Users\Administrator\Desktop\基础回顾\多线程\obj\Debug\018_多线程.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\多线程\obj\Debug\多线程.exe
+C:\Users\Administrator\Desktop\基础回顾\多线程\obj\Debug\多线程.pdb
+D:\Work\1、实训中心授课\2、提高班\基础回顾\多线程\bin\Debug\多线程.exe.config
+D:\Work\1、实训中心授课\2、提高班\基础回顾\多线程\bin\Debug\多线程.exe
+D:\Work\1、实训中心授课\2、提高班\基础回顾\多线程\bin\Debug\多线程.pdb
+D:\Work\1、实训中心授课\2、提高班\基础回顾\多线程\obj\Debug\018_多线程.csproj.AssemblyReference.cache
+D:\Work\1、实训中心授课\2、提高班\基础回顾\多线程\obj\Debug\018_多线程.csproj.CoreCompileInputs.cache
+D:\Work\1、实训中心授课\2、提高班\基础回顾\多线程\obj\Debug\多线程.exe
+D:\Work\1、实训中心授课\2、提高班\基础回顾\多线程\obj\Debug\多线程.pdb

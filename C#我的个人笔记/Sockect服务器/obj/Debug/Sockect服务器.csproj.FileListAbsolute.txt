@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\基础回顾\Sockect服务器\bin\Debug\Sockect服务器.exe.config
+C:\Users\Administrator\Desktop\基础回顾\Sockect服务器\bin\Debug\Sockect服务器.exe
+C:\Users\Administrator\Desktop\基础回顾\Sockect服务器\bin\Debug\Sockect服务器.pdb
+C:\Users\Administrator\Desktop\基础回顾\Sockect服务器\obj\Debug\Sockect服务器.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\Sockect服务器\obj\Debug\Sockect服务器.exe
+C:\Users\Administrator\Desktop\基础回顾\Sockect服务器\obj\Debug\Sockect服务器.pdb
+C:\Users\Administrator\Desktop\基础回顾\Sockect服务器\obj\Debug\Sockect服务器.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\基础回顾\Sockect服务器\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\基础回顾\Sockect服务器\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\基础回顾\Sockect服务器\obj\Debug\Sockect服务器.csproj.CopyComplete

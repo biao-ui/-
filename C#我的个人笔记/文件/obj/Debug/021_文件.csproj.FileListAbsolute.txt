@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\基础回顾\文件\bin\Debug\文件.exe.config
+C:\Users\Administrator\Desktop\基础回顾\文件\bin\Debug\文件.exe
+C:\Users\Administrator\Desktop\基础回顾\文件\bin\Debug\文件.pdb
+C:\Users\Administrator\Desktop\基础回顾\文件\obj\Debug\021_文件.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\文件\obj\Debug\文件.exe
+C:\Users\Administrator\Desktop\基础回顾\文件\obj\Debug\文件.pdb
+C:\Users\Administrator\Desktop\基础回顾\文件\obj\Debug\021_文件.csproj.AssemblyReference.cache
+D:\Work\1、实训中心授课\2、提高班\基础回顾\文件\bin\Debug\文件.exe.config
+D:\Work\1、实训中心授课\2、提高班\基础回顾\文件\bin\Debug\文件.exe
+D:\Work\1、实训中心授课\2、提高班\基础回顾\文件\bin\Debug\文件.pdb
+D:\Work\1、实训中心授课\2、提高班\基础回顾\文件\obj\Debug\021_文件.csproj.AssemblyReference.cache
+D:\Work\1、实训中心授课\2、提高班\基础回顾\文件\obj\Debug\021_文件.csproj.CoreCompileInputs.cache
+D:\Work\1、实训中心授课\2、提高班\基础回顾\文件\obj\Debug\文件.exe
+D:\Work\1、实训中心授课\2、提高班\基础回顾\文件\obj\Debug\文件.pdb

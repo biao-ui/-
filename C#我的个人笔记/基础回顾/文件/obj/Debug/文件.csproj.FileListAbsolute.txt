@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\基础回顾\文件\bin\Debug\文件.exe.config
+C:\Users\Administrator\Desktop\基础回顾\文件\bin\Debug\文件.exe
+C:\Users\Administrator\Desktop\基础回顾\文件\bin\Debug\文件.pdb
+C:\Users\Administrator\Desktop\基础回顾\文件\obj\Debug\文件.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\基础回顾\文件\obj\Debug\文件.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\文件\obj\Debug\文件.exe
+C:\Users\Administrator\Desktop\基础回顾\文件\obj\Debug\文件.pdb

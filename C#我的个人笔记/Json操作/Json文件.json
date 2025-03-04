@@ -1,0 +1,12 @@
+{
+  "Name": "张三",
+  "Age": 18,
+  "IsAdmin": true,
+  "Friends": [ "李四", "王五", "赵六" ],
+  "Email": null,
+  "Address": {
+    "City": "南宁",
+    "Road": "创新路",
+    "Number": 23
+  }
+}

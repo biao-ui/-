@@ -1,0 +1,12 @@
+E:\工作\讲课\基础回顾\基础回顾\多态\bin\Debug\多态.exe.config
+E:\工作\讲课\基础回顾\基础回顾\多态\bin\Debug\多态.exe
+E:\工作\讲课\基础回顾\基础回顾\多态\bin\Debug\多态.pdb
+E:\工作\讲课\基础回顾\基础回顾\多态\obj\Debug\008_多态.csproj.CoreCompileInputs.cache
+E:\工作\讲课\基础回顾\基础回顾\多态\obj\Debug\多态.exe
+E:\工作\讲课\基础回顾\基础回顾\多态\obj\Debug\多态.pdb
+C:\Users\Administrator\Desktop\基础回顾\多态\bin\Debug\多态.exe.config
+C:\Users\Administrator\Desktop\基础回顾\多态\bin\Debug\多态.exe
+C:\Users\Administrator\Desktop\基础回顾\多态\bin\Debug\多态.pdb
+C:\Users\Administrator\Desktop\基础回顾\多态\obj\Debug\008_多态.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\多态\obj\Debug\多态.exe
+C:\Users\Administrator\Desktop\基础回顾\多态\obj\Debug\多态.pdb

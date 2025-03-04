@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\基础回顾\Json操作\bin\Debug\Json操作.exe.config
+C:\Users\Administrator\Desktop\基础回顾\Json操作\bin\Debug\Json操作.exe
+C:\Users\Administrator\Desktop\基础回顾\Json操作\bin\Debug\Json操作.pdb
+C:\Users\Administrator\Desktop\基础回顾\Json操作\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\基础回顾\Json操作\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\基础回顾\Json操作\obj\Debug\023_Json操作.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\基础回顾\Json操作\obj\Debug\023_Json操作.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\Json操作\obj\Debug\023_Json操作.csproj.CopyComplete
+C:\Users\Administrator\Desktop\基础回顾\Json操作\obj\Debug\Json操作.exe
+C:\Users\Administrator\Desktop\基础回顾\Json操作\obj\Debug\Json操作.pdb

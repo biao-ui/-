@@ -1,0 +1,12 @@
+E:\工作\讲课\基础回顾\基础回顾\判断与循环\bin\Debug\判断与循环.exe.config
+E:\工作\讲课\基础回顾\基础回顾\判断与循环\bin\Debug\判断与循环.exe
+E:\工作\讲课\基础回顾\基础回顾\判断与循环\bin\Debug\判断与循环.pdb
+E:\工作\讲课\基础回顾\基础回顾\判断与循环\obj\Debug\004_判断与循环.csproj.CoreCompileInputs.cache
+E:\工作\讲课\基础回顾\基础回顾\判断与循环\obj\Debug\判断与循环.exe
+E:\工作\讲课\基础回顾\基础回顾\判断与循环\obj\Debug\判断与循环.pdb
+C:\Users\Administrator\Desktop\基础回顾\判断与循环\bin\Debug\判断与循环.exe.config
+C:\Users\Administrator\Desktop\基础回顾\判断与循环\bin\Debug\判断与循环.exe
+C:\Users\Administrator\Desktop\基础回顾\判断与循环\bin\Debug\判断与循环.pdb
+C:\Users\Administrator\Desktop\基础回顾\判断与循环\obj\Debug\004_判断与循环.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\判断与循环\obj\Debug\判断与循环.exe
+C:\Users\Administrator\Desktop\基础回顾\判断与循环\obj\Debug\判断与循环.pdb

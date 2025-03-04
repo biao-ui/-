@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\基础回顾\多线程\bin\Debug\多线程.exe.config
+C:\Users\Administrator\Desktop\基础回顾\多线程\bin\Debug\多线程.exe
+C:\Users\Administrator\Desktop\基础回顾\多线程\bin\Debug\多线程.pdb
+C:\Users\Administrator\Desktop\基础回顾\多线程\obj\Debug\018_多线程.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\多线程\obj\Debug\多线程.exe
+C:\Users\Administrator\Desktop\基础回顾\多线程\obj\Debug\多线程.pdb

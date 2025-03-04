@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\基础回顾\索引器\bin\Debug\索引器.exe.config
+C:\Users\Administrator\Desktop\基础回顾\索引器\bin\Debug\索引器.exe
+C:\Users\Administrator\Desktop\基础回顾\索引器\bin\Debug\索引器.pdb
+C:\Users\Administrator\Desktop\基础回顾\索引器\obj\Debug\015_索引器.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\索引器\obj\Debug\索引器.exe
+C:\Users\Administrator\Desktop\基础回顾\索引器\obj\Debug\索引器.pdb
+C:\Users\Administrator\Desktop\基础回顾\索引器\obj\Debug\015_索引器.csproj.AssemblyReference.cache
+D:\Work\1、实训中心授课\2、提高班\基础回顾\索引器\bin\Debug\索引器.exe.config
+D:\Work\1、实训中心授课\2、提高班\基础回顾\索引器\bin\Debug\索引器.exe
+D:\Work\1、实训中心授课\2、提高班\基础回顾\索引器\bin\Debug\索引器.pdb
+D:\Work\1、实训中心授课\2、提高班\基础回顾\索引器\obj\Debug\015_索引器.csproj.AssemblyReference.cache
+D:\Work\1、实训中心授课\2、提高班\基础回顾\索引器\obj\Debug\015_索引器.csproj.CoreCompileInputs.cache
+D:\Work\1、实训中心授课\2、提高班\基础回顾\索引器\obj\Debug\索引器.exe
+D:\Work\1、实训中心授课\2、提高班\基础回顾\索引器\obj\Debug\索引器.pdb

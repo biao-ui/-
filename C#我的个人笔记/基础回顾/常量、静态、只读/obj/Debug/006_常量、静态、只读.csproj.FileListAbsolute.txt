@@ -1,0 +1,12 @@
+E:\工作\讲课\基础回顾\基础回顾\常量、静态、只读\bin\Debug\常量、静态、只读.exe.config
+E:\工作\讲课\基础回顾\基础回顾\常量、静态、只读\bin\Debug\常量、静态、只读.exe
+E:\工作\讲课\基础回顾\基础回顾\常量、静态、只读\bin\Debug\常量、静态、只读.pdb
+E:\工作\讲课\基础回顾\基础回顾\常量、静态、只读\obj\Debug\006_常量、静态、只读.csproj.CoreCompileInputs.cache
+E:\工作\讲课\基础回顾\基础回顾\常量、静态、只读\obj\Debug\常量、静态、只读.exe
+E:\工作\讲课\基础回顾\基础回顾\常量、静态、只读\obj\Debug\常量、静态、只读.pdb
+C:\Users\Administrator\Desktop\基础回顾\常量、静态、只读\bin\Debug\常量、静态、只读.exe.config
+C:\Users\Administrator\Desktop\基础回顾\常量、静态、只读\bin\Debug\常量、静态、只读.exe
+C:\Users\Administrator\Desktop\基础回顾\常量、静态、只读\bin\Debug\常量、静态、只读.pdb
+C:\Users\Administrator\Desktop\基础回顾\常量、静态、只读\obj\Debug\006_常量、静态、只读.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\常量、静态、只读\obj\Debug\常量、静态、只读.exe
+C:\Users\Administrator\Desktop\基础回顾\常量、静态、只读\obj\Debug\常量、静态、只读.pdb

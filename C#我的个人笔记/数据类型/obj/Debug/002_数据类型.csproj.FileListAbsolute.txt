@@ -1,0 +1,14 @@
+E:\工作\讲课\基础回顾\基础回顾\数据类型\bin\Debug\数据类型.exe.config
+E:\工作\讲课\基础回顾\基础回顾\数据类型\bin\Debug\数据类型.exe
+E:\工作\讲课\基础回顾\基础回顾\数据类型\bin\Debug\数据类型.pdb
+E:\工作\讲课\基础回顾\基础回顾\数据类型\obj\Debug\002_数据类型.csproj.CoreCompileInputs.cache
+E:\工作\讲课\基础回顾\基础回顾\数据类型\obj\Debug\数据类型.exe
+E:\工作\讲课\基础回顾\基础回顾\数据类型\obj\Debug\数据类型.pdb
+E:\工作\讲课\基础回顾\基础回顾\数据类型\obj\Debug\002_数据类型.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\基础回顾\数据类型\bin\Debug\数据类型.exe.config
+C:\Users\Administrator\Desktop\基础回顾\数据类型\bin\Debug\数据类型.exe
+C:\Users\Administrator\Desktop\基础回顾\数据类型\bin\Debug\数据类型.pdb
+C:\Users\Administrator\Desktop\基础回顾\数据类型\obj\Debug\002_数据类型.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\数据类型\obj\Debug\数据类型.exe
+C:\Users\Administrator\Desktop\基础回顾\数据类型\obj\Debug\数据类型.pdb
+C:\Users\Administrator\Desktop\基础回顾\数据类型\obj\Debug\002_数据类型.csproj.AssemblyReference.cache

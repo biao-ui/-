@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\基础回顾\反射\bin\Debug\反射.exe.config
+C:\Users\Administrator\Desktop\基础回顾\反射\bin\Debug\反射.exe
+C:\Users\Administrator\Desktop\基础回顾\反射\bin\Debug\反射.pdb
+C:\Users\Administrator\Desktop\基础回顾\反射\obj\Debug\019_反射.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\反射\obj\Debug\反射.exe
+C:\Users\Administrator\Desktop\基础回顾\反射\obj\Debug\反射.pdb

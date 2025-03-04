@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\基础回顾\泛型\bin\Debug\泛型.exe.config
+C:\Users\Administrator\Desktop\基础回顾\泛型\bin\Debug\泛型.exe
+C:\Users\Administrator\Desktop\基础回顾\泛型\bin\Debug\泛型.pdb
+C:\Users\Administrator\Desktop\基础回顾\泛型\obj\Debug\016_泛型.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\泛型\obj\Debug\泛型.exe
+C:\Users\Administrator\Desktop\基础回顾\泛型\obj\Debug\泛型.pdb

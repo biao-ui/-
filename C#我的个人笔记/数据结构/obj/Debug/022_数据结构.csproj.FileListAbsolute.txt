@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\基础回顾\数据结构\bin\Debug\数据结构.exe.config
+C:\Users\Administrator\Desktop\基础回顾\数据结构\bin\Debug\数据结构.exe
+C:\Users\Administrator\Desktop\基础回顾\数据结构\bin\Debug\数据结构.pdb
+C:\Users\Administrator\Desktop\基础回顾\数据结构\obj\Debug\022_数据结构.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\数据结构\obj\Debug\数据结构.exe
+C:\Users\Administrator\Desktop\基础回顾\数据结构\obj\Debug\数据结构.pdb
+C:\Users\Administrator\Desktop\基础回顾\数据结构\obj\Debug\022_数据结构.csproj.AssemblyReference.cache

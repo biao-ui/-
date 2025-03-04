@@ -1,0 +1,7 @@
+E:\工作\讲课\基础回顾\基础回顾\异常处理\bin\Debug\异常处理.exe.config
+E:\工作\讲课\基础回顾\基础回顾\异常处理\bin\Debug\异常处理.exe
+E:\工作\讲课\基础回顾\基础回顾\异常处理\bin\Debug\异常处理.pdb
+E:\工作\讲课\基础回顾\基础回顾\异常处理\obj\Debug\异常处理.csproj.AssemblyReference.cache
+E:\工作\讲课\基础回顾\基础回顾\异常处理\obj\Debug\异常处理.csproj.CoreCompileInputs.cache
+E:\工作\讲课\基础回顾\基础回顾\异常处理\obj\Debug\异常处理.exe
+E:\工作\讲课\基础回顾\基础回顾\异常处理\obj\Debug\异常处理.pdb

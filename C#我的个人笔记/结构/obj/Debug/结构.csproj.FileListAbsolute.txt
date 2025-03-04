@@ -1,0 +1,7 @@
+E:\工作\讲课\基础回顾\基础回顾\结构\obj\Debug\结构.csproj.AssemblyReference.cache
+E:\工作\讲课\基础回顾\基础回顾\结构\obj\Debug\结构.csproj.CoreCompileInputs.cache
+E:\工作\讲课\基础回顾\基础回顾\结构\bin\Debug\结构.exe.config
+E:\工作\讲课\基础回顾\基础回顾\结构\bin\Debug\结构.exe
+E:\工作\讲课\基础回顾\基础回顾\结构\bin\Debug\结构.pdb
+E:\工作\讲课\基础回顾\基础回顾\结构\obj\Debug\结构.exe
+E:\工作\讲课\基础回顾\基础回顾\结构\obj\Debug\结构.pdb

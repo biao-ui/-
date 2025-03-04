@@ -1,0 +1,12 @@
+E:\工作\讲课\基础回顾\基础回顾\数组\bin\Debug\数组.exe.config
+E:\工作\讲课\基础回顾\基础回顾\数组\bin\Debug\数组.exe
+E:\工作\讲课\基础回顾\基础回顾\数组\bin\Debug\数组.pdb
+E:\工作\讲课\基础回顾\基础回顾\数组\obj\Debug\011_数组.csproj.CoreCompileInputs.cache
+E:\工作\讲课\基础回顾\基础回顾\数组\obj\Debug\数组.exe
+E:\工作\讲课\基础回顾\基础回顾\数组\obj\Debug\数组.pdb
+C:\Users\Administrator\Desktop\基础回顾\数组\bin\Debug\数组.exe.config
+C:\Users\Administrator\Desktop\基础回顾\数组\bin\Debug\数组.exe
+C:\Users\Administrator\Desktop\基础回顾\数组\bin\Debug\数组.pdb
+C:\Users\Administrator\Desktop\基础回顾\数组\obj\Debug\011_数组.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\基础回顾\数组\obj\Debug\数组.exe
+C:\Users\Administrator\Desktop\基础回顾\数组\obj\Debug\数组.pdb
