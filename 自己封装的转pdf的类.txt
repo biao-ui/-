@@ -1,0 +1,167 @@
+ 所要使用的NuGet包
+ FreeSpire.XLS
+ FreeSpire.Doc
+
+       /// <summary>
+        /// 将 Word 文件转换为 PDF
+        /// </summary>
+        /// <param name="WordPath">Word 文件路径</param>
+        /// <param name="pdfName">保存 PDF 文件的路径</param>
+        /// <param name="DeleteWord">是否删除源 Word 文件</param>
+        /// <returns>返回转换是否成功</returns>
+        public static async Task<bool> Word2PDF2(string WordPath, string pdfName, bool DeleteWord = false)
+        {
+            try
+            {
+                await Task.Run(() =>
+                {
+                    // 创建 Document 对象并加载 Word 文件
+                    Spire.Doc.Document doc = new Spire.Doc.Document();
+                    doc.LoadFromFile(WordPath);
+
+                    // 设置字体嵌入（确保在转换为 PDF 时字体不丢失）
+                    doc.SaveToFile(pdfName, Spire.Doc.FileFormat.PDF);
+
+                    //// 可选：删除源 Word 文件
+                    //if (DeleteWord && File.Exists(WordPath))
+                    //{
+                    //    File.Delete(WordPath);
+                    //}
+                });
+
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error: " + ex.Message); // 打印异常信息
+                return false;
+            }
+        }  
+
+    /// <summary>
+        /// 将 Word 文件转换为 JPG
+        /// </summary>
+        /// <param name="WordPath">Word 文件路径</param>
+        /// <param name="imagePath, ">保存JPG 文件的路径</param>
+        /// <param name="DeleteWord">是否删除源 Word 文件</param>
+        /// <returns>返回转换是否成功</returns>
+      public static async Task<bool> Word2Image(string WordPath, string imagePath, bool DeleteWord = false)
+        {
+            try
+            {
+                await Task.Run(() =>
+            {
+
+                // 创建 Document 对象并加载 Word 文件
+                Spire.Doc.Document doc = new Spire.Doc.Document();
+                doc.LoadFromFile(WordPath);
+
+                // 设置导出为图片的选项
+                for (int i = 0; i < doc.PageCount; i++)
+                {
+                    // 将文档的每一页转换为图像
+                    var image = doc.SaveToImages(i, Spire.Doc.Documents.ImageType.Bitmap);
+                    image.Save($"{imagePath}_page{i + 1}.JPG", ImageFormat.Jpeg);
+                }
+
+                // 可选：删除源 Word 文件
+                if (DeleteWord && System.IO.File.Exists(WordPath))
+                {
+                    System.IO.File.Delete(WordPath);
+                }
+
+
+            });
+                return true;
+            }
+            catch (Exception ex)
+            {
+
+                return false;
+            }
+
+
+        }
+   
+        /// 将 Excel 文件转换为 PDF
+        /// </summary>
+        /// <param name="excelPath">Excel 文件路径</param>
+        /// <param name="pdfPath">保存 PDF 文件的路径</param>
+        /// <param name="deleteExcel">是否删除源 Excel 文件</param>
+        /// <returns>返回转换是否成功</returns>
+        public static async Task<bool> ConvertExcelToPdfAsync(string excelPath, string pdfPath, bool deleteExcel = false)
+        {
+            return await Task.Run(() =>
+            {
+                try
+                {
+                    if (!File.Exists(excelPath))
+                    {
+                        return false;
+                    }
+
+                    // 加载 Excel 文件
+                    Spire.Xls.Workbook workbook = new Spire.Xls.Workbook();
+                    workbook.LoadFromFile(excelPath);
+
+                    // 设置打印区域为一页
+                    foreach (Spire.Xls.Worksheet sheet in workbook.Worksheets)
+                    {
+                        // 设置打印区域为适应页面大小（宽度和高度）
+                        //sheet.PageSetup.FitToPages = true;
+                        sheet.PageSetup.FitToPagesWide = 1;  // 宽度设置为 1 页
+                        sheet.PageSetup.FitToPagesTall = 1;  // 高度设置为 1 页
+                    }
+
+                    // 将 Excel 保存为 PDF
+                    workbook.SaveToFile(pdfPath, Spire.Xls.FileFormat.PDF);
+
+                    // 确保 PDF 生成成功
+                    if (!File.Exists(pdfPath))
+                    {
+                        return false;
+                    }
+
+                    // 可选：删除 Excel 源文件
+                    if (deleteExcel)
+                    {
+                        File.Delete(excelPath);
+                    }
+
+                    return true;
+                }
+                catch (Exception)
+                {
+                    return false;
+                }
+            });
+        }
+  /// <summary>
+        /// 十分钟到了就删除
+        /// </summary>
+        /// <param name="folderPath"></param>
+        public static async Task CleanOldFiles(string folderPath)
+        {
+            await Task.Run(() =>
+            {
+                // 获取文件夹中所有文件
+                string[] files = Directory.GetFiles(folderPath);
+
+                foreach (string filePath in files)
+                {
+                    {
+                        // 获取文件的创建时间（确保是从创建时间计算）
+                        DateTime creationTime = File.GetCreationTimeUtc(filePath);
+                        TimeSpan elapsedTime = DateTime.UtcNow - creationTime;
+
+                        // 如果文件存留超过 10 分钟，则删除
+                        if (elapsedTime.TotalMinutes > 10)
+                        {
+                            File.Delete(filePath);
+
+                        }
+                    }
+                };
+            });
+
+        }
