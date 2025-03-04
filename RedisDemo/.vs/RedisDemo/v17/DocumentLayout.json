@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{476A4DA1-DB47-4F10-8198-F4DFE07587C7}|RedisDemo\\RedisDemo.csproj|D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\redisdemo\\redishelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A4DA1-DB47-4F10-8198-F4DFE07587C7}|RedisDemo\\RedisDemo.csproj|solutionrelative:redisdemo\\redishelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A4DA1-DB47-4F10-8198-F4DFE07587C7}|RedisDemo\\RedisDemo.csproj|D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\redisdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A4DA1-DB47-4F10-8198-F4DFE07587C7}|RedisDemo\\RedisDemo.csproj|solutionrelative:redisdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D23FE48-4D32-4BF5-9FB4-5EE35E80C920}|RedisDemoByStackExchange\\RedisDemoByStackExchange.csproj|D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\redisdemobystackexchange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D23FE48-4D32-4BF5-9FB4-5EE35E80C920}|RedisDemoByStackExchange\\RedisDemoByStackExchange.csproj|solutionrelative:redisdemobystackexchange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D23FE48-4D32-4BF5-9FB4-5EE35E80C920}|RedisDemoByStackExchange\\RedisDemoByStackExchange.csproj|D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\redisdemobystackexchange\\redishelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D23FE48-4D32-4BF5-9FB4-5EE35E80C920}|RedisDemoByStackExchange\\RedisDemoByStackExchange.csproj|solutionrelative:redisdemobystackexchange\\redishelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A4DA1-DB47-4F10-8198-F4DFE07587C7}|RedisDemo\\RedisDemo.csproj|D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\redisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A4DA1-DB47-4F10-8198-F4DFE07587C7}|RedisDemo\\RedisDemo.csproj|solutionrelative:redisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D23FE48-4D32-4BF5-9FB4-5EE35E80C920}|RedisDemoByStackExchange\\RedisDemoByStackExchange.csproj|d:\\\u5F00\u53D1\u8F6F\u4EF6\\redisdemo\\redisdemo\\redisdemobystackexchange\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0D23FE48-4D32-4BF5-9FB4-5EE35E80C920}|RedisDemoByStackExchange\\RedisDemoByStackExchange.csproj|solutionrelative:redisdemobystackexchange\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\net\u9879\u76EE\\MallAdmin\\Commo\\Commo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemoByStackExchange\\App.config",
+              "RelativeDocumentMoniker": "RedisDemoByStackExchange\\App.config",
+              "ToolTip": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemoByStackExchange\\App.config",
+              "RelativeToolTip": "RedisDemoByStackExchange\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-04T03:46:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Commo.csproj",
+              "DocumentMoniker": "D:\\net\u9879\u76EE\\MallAdmin\\Commo\\Commo.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\net\u9879\u76EE\\MallAdmin\\Commo\\Commo.csproj",
+              "ToolTip": "D:\\net\u9879\u76EE\\MallAdmin\\Commo\\Commo.csproj",
+              "RelativeToolTip": "..\\..\\..\\net\u9879\u76EE\\MallAdmin\\Commo\\Commo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T14:30:33.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemo\\Student.cs",
+              "RelativeDocumentMoniker": "RedisDemo\\Student.cs",
+              "ToolTip": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemo\\Student.cs",
+              "RelativeToolTip": "RedisDemo\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:29:50.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisHelper.cs",
+              "DocumentMoniker": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemo\\RedisHelper.cs",
+              "RelativeDocumentMoniker": "RedisDemo\\RedisHelper.cs",
+              "ToolTip": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemo\\RedisHelper.cs",
+              "RelativeToolTip": "RedisDemo\\RedisHelper.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAQwIABAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:04:34.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedisHelper.cs",
+              "DocumentMoniker": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemoByStackExchange\\RedisHelper.cs",
+              "RelativeDocumentMoniker": "RedisDemoByStackExchange\\RedisHelper.cs",
+              "ToolTip": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemoByStackExchange\\RedisHelper.cs",
+              "RelativeToolTip": "RedisDemoByStackExchange\\RedisHelper.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:55:01.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemoByStackExchange\\Program.cs",
+              "RelativeDocumentMoniker": "RedisDemoByStackExchange\\Program.cs",
+              "ToolTip": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemoByStackExchange\\Program.cs",
+              "RelativeToolTip": "RedisDemoByStackExchange\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:54:52.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemo\\Program.cs",
+              "RelativeDocumentMoniker": "RedisDemo\\Program.cs",
+              "ToolTip": "D:\\\u5F00\u53D1\u8F6F\u4EF6\\RedisDemo\\RedisDemo\\RedisDemo\\Program.cs",
+              "RelativeToolTip": "RedisDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:53:06.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
